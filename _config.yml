@@ -28,9 +28,25 @@ twitter_username: PrideontheRange
 instagram_username: PrideontheRange
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+
+atom_feed:
+  hide: true
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://twitter.com/prideontherange"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/prideontherange"
+    - label: "Email"
+      icon: "fa-regular fa-envelope"
+      url: "mailto:prideontherange@gmail.com"
+
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
