@@ -35,7 +35,7 @@ atom_feed:
 footer:
   links:
     - label: "Facebook"
-      icon: "fab fa-fw fa-square-x-facebook"
+      icon: "fab fa-fw fa-square-facebook"
       url: "https://www.facebook.com/PrideOnTheRange"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
