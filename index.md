@@ -9,6 +9,8 @@ masthead: false
 {: style="text-align: center;"}
 23–24 May 2026 at [The Carlton Club](https://www.carltonclub.org.uk/)
 {: style="text-align: center;"}
+<span class="fa-brands fa-instagram">&nbsp;</span>[Follow PrideOnTheRange](https://www.instagram.com/prideontherange?igsh=MWlkNnFqcHh6ODFkMA==) for updates
+{: style="text-align: center;"}
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1188.128212835425!2d-2.264221671933178!3d53.45158746670966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487badff41c3b1bb%3A0x4e4617d96653e783!2sThe%20Carlton%20Club!5e0!3m2!1sen!2suk!4v1774965810732!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {: style="text-align: center; width: 100%;"}
