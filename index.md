@@ -7,7 +7,7 @@ masthead: false
 ---
 ![pride-on-the-range-logo-500x500.png](assets/images/pride-on-the-range-logo-500x500.png)
 {: style="text-align: center;"}
-23–24 May 2026 at [The Carlton Club](https://www.carltonclub.org.uk/)
+21st–24th May 2026 at [The Carlton Club](https://www.carltonclub.org.uk/)
 {: style="text-align: center;"}
 <span class="fa-brands fa-instagram">&nbsp;</span>[Follow PrideOnTheRange](https://www.instagram.com/prideontherange) for updates
 {: style="text-align: center;"}
