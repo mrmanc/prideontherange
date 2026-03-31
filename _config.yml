@@ -22,7 +22,7 @@ title: Pride On The Range
 email: prideontherange@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Celebrating LGBTQIA+ diversity in Whalley Range, Manchester, UK.
-baseurl: "prideontherange" # the subpath of your site, e.g. /blog
+baseurl: "/prideontherange" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PrideontheRange
 instagram_username: PrideontheRange
