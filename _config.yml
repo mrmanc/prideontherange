@@ -34,9 +34,6 @@ atom_feed:
   hide: true
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      url: "https://twitter.com/prideontherange"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/prideontherange"
