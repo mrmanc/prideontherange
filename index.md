@@ -7,11 +7,17 @@ masthead: false
 ---
 ![pride-on-the-range-logo-500x500.png](assets/images/pride-on-the-range-logo-500x500.png)
 {: style="text-align: center;"}
+
 21st–24th May 2026 at [The Carlton Club](https://www.carltonclub.org.uk/)
 {: style="text-align: center;"}
+
 <span class="fa-brands fa-instagram">&nbsp;</span>[Follow PrideOnTheRange](https://www.instagram.com/prideontherange) for updates
 {: style="text-align: center;"}
+
 <span class="fa-regular fa-envelope">&nbsp;</span>[Email prideontherange@gmail.com](mailto:prideontherange@gmail.com)
+{: style="text-align: center;"}
+
+<span class="fa-solid fa-gift">&nbsp;</span>[Donate to Pride on the Range](https://link.prideontherange.uk/donate-website)
 {: style="text-align: center;"}
 
 <iframe src="https://docs.google.com/viewer?url=https://prideontherange.uk/assets/posters/pride-on-the-range-2026-a4-poster.pdf&embedded=true" style="border: none; aspect-ratio: 8.5 / 12;"></iframe>
